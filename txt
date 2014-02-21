@@ -1,0 +1,42 @@
+HTML and CSS
+
+HTML stands for HyperText Markup Language. 
+Hypertext means "text with links in it." 
+Any time you click on a word that brings you to a new webpage,
+you've clicked on hypertext!
+
+A markup language is a programming language used to make text do more than just sit on a page:
+it can turn text into images, links, tables, lists, and much more. 
+HTML is the markup language we'll be learning.
+
+What makes webpages pretty? 
+That's CSS—Cascading Style Sheets. 
+Think of it like skin and makeup that covers the bones of HTML. 
+We'll learn HTML first, then worry about CSS in later courses.
+
+The first thing we should do is set up the skeleton of the page.
+
+a. Always put <!DOCTYPE html> on the first line. 
+This tells the browser what language it's reading (in this case, HTML).
+b. Always put <html> on the next line. This starts the HTML document.
+c. Always put </html> on the last line. This ends the HTML document.
+
+Instructions
+Go ahead and put the three lines mentioned above into test.html, which is now blank.
+
+In between the second and last line (between the <html> and the </html>), 
+feel free to write whatever message you like.
+
+?
+Stuck? Get a hint!
+
+Hint
+In HTML, the order you put things in matters! 
+But formatting (i.e. empty space) doesn't matter from a technical point of view.
+
+You will notice there's a pattern in how we indent each line of HTML, though. 
+This is to aid readability and help us catch mistakes. 
+We'll talk more about indentation later!
+
+
+Q&A Forum  Glossary
